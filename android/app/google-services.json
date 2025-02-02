@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921576837167",
+    "project_id": "nastasiafooddel",
+    "storage_bucket": "nastasiafooddel.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921576837167:android:0debcca8986563479b36da",
+        "android_client_info": {
+          "package_name": "com.nastasia.del"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-w0wIMLJqJu-_nXUNd9e8xGb8Dk43P4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

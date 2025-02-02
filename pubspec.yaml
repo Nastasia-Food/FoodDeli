@@ -1,0 +1,70 @@
+name: fooddeli
+version: 1.0.3+8
+publish_to: none
+description: At its core, the NataLee Pro Food Ecosystem is driven by a mission to redefine global food systems. It aims to bridge the gap between cutting-edge food technologies and traditional culinary practices, fostering a harmonious relationship between humans and the planet.
+environment: 
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: ^4.6.5
+  http: ^1.2.1
+  animated_bottom_navigation_bar: ^1.1.0
+  flutter_screenutil: ^5.9.0
+  image_picker: ^1.1.0
+  get_storage: ^2.0.3
+  flutter_svg: ^2.0.10+1
+  lottie: ^3.1.0
+  modal_bottom_sheet: ^3.0.0
+  expansion_tile_card: ^3.0.0
+  bottom_bar: ^2.0.2
+  rflutter_alert: ^2.0.4
+  cached_network_image: ^3.3.1
+  shimmer: ^3.0.0
+  connectivity:
+  firebase_messaging: ^14.6.5
+  firebase_core: ^2.4.1
+  flutter_local_notifications: ^17.1.0
+  flutter_launcher_icons: ^0.13.1
+  google_maps_flutter: ^2.2.5
+  location: ^6.0.1
+  geolocator: ^11.0.0
+  flutter_polyline_points: ^2.0.0
+  url_launcher: ^6.1.10
+  map_launcher: ^3.3.0
+  webview_flutter: ^4.0.7
+  flutter_html: any
+
+  flutter: 
+    sdk: flutter
+
+
+dev_dependencies: 
+  flutter_lints: ^3.0.2
+  flutter_test: 
+    sdk: flutter
+
+flutter_icons:
+  image_path: "assets/images/app_logo.png"
+  android: "ic_launcher"
+  ios: true
+
+flutter: 
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+
+
+  fonts:
+    - family: Rubik
+      fonts:
+        - asset: assets/fonts/Rubik-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Rubik-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Rubik-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Rubik-Black.ttf
+          weight: 900
