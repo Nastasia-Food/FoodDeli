@@ -4,8 +4,6 @@
 
 FoodDeli is a modern **Flutter-based food delivery app** that connects customers with local restaurants. Browse menus, place orders, track deliveries in real-time, and enjoy seamless payments. Designed for iOS and Android, with a focus on performance and user experience.
 
-![FoodDeli Preview](https://via.placeholder.com/800x400.png?text=FoodDeli+App+Screenshots) <!-- Add real app screenshots -->
-
 ## Features ✨
 
 - **User Authentication**: Secure signup/login for customers and restaurants.
@@ -66,7 +64,7 @@ Licensed under the MIT License. See LICENSE.
 Contact 📧
 Reach out for support, partnerships, or feedback:
 
-Website: food.natalee.pro
+Website: https://food.natalee.pro
 
 Email: support@rechain.network
 
