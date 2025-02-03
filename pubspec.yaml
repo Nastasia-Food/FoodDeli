@@ -27,7 +27,7 @@ dependencies:
   flutter_local_notifications: ^18.0.1
   flutter_launcher_icons: ^0.13.1
   google_maps_flutter: ^2.2.5
-  location: ^6.0.1
+  location: ^8.0.0
   geolocator: ^13.0.2
   flutter_polyline_points: ^2.0.0
   url_launcher: ^6.1.10
