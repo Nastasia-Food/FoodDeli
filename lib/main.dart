@@ -43,7 +43,7 @@ void main() async {
       designSize: const Size(360, 800),
       builder: ((context, child) => GetMaterialApp(
             debugShowCheckedModeBanner: false,
-            title: "Food Deli",
+            title: "FoodKing - Delivery Boy",
             translations: Languages(),
             theme: ThemeData(useMaterial3: false),
             locale: langValue,

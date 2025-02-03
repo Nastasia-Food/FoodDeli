@@ -4,7 +4,7 @@ import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:fooddeli/app/modules/home/controllers/location_controller.dart';
+import 'package:foodking_delivery_boy/app/modules/home/controllers/location_controller.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:get/get.dart';
 import 'package:map_launcher/map_launcher.dart';
