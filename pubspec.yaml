@@ -25,7 +25,7 @@ dependencies:
   firebase_messaging: ^14.6.5
   firebase_core: ^2.4.1
   flutter_local_notifications: ^18.0.1
-  flutter_launcher_icons: ^0.13.1
+  flutter_launcher_icons: ^0.14.3
   google_maps_flutter: ^2.2.5
   location: ^6.0.1
   geolocator: ^13.0.2
