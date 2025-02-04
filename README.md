@@ -1,5 +1,9 @@
 # FoodDeli
 
+https://api.codemagic.io/apps/67a215eb87e7dbbe164597ad/67a215eb87e7dbbe164597ac/status_badge.svg
+
+[![Codemagic build status](https://api.codemagic.io/apps/67a215eb87e7dbbe164597ad/67a215eb87e7dbbe164597ac/status_badge.svg)](https://codemagic.io/app/67a215eb87e7dbbe164597ad/67a215eb87e7dbbe164597ac/latest_build)
+
 # FoodDeli 🍔🚚
 
 FoodDeli is a modern **Flutter-based food delivery app** that connects customers with local restaurants. Browse menus, place orders, track deliveries in real-time, and enjoy seamless payments. Designed for iOS and Android, with a focus on performance and user experience.
