@@ -1,4 +1,4 @@
-package com.nastasia.del
+package pro.natalee.nastasiamerch
 
 import io.flutter.embedding.android.FlutterActivity
 
