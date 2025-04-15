@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=pro.natalee.foodking_delivery_boy
+Comment=At its core, the NataLee Pro Food Ecosystem is driven by a mission to redefine global food systems. It aims to bridge the gap between cutting-edge food technologies and traditional culinary practices, fostering a harmonious relationship between humans and the planet.
+Icon=pro.natalee.foodking_delivery_boy
+Exec=/usr/bin/pro.natalee.foodking_delivery_boy
+X-Nemo-Application-Type=silica-qt5
+
+[X-Application]
+Permissions=Audio;Call;Camera;DeviceInfo;Documents;Downloads;Internet;Location;MediaIndexing;Microphone;Music;NFC;Pictures;PublicDir;PushNotifications;RemovableMedia;ScreenCapture;SecureStorage;Videos;WebView;
+OrganizationName=pro.natalee
+ApplicationName=fooddeli
