@@ -33,7 +33,7 @@ dependencies:
   url_launcher: ^6.1.10
   map_launcher: ^3.3.0
   webview_flutter: ^4.11.0
-  flutter_html: any
+  flutter_html: 3.0.0
 
   flutter: 
     sdk: flutter
