@@ -53,10 +53,10 @@ packages:
     dependency: "direct main"
     description:
       name: bottom_bar
-      sha256: "4382b5fe59c2e1d44022bd0db530f68877afea442ebbdc76d7976c22dd4fb15c"
+      sha256: a2c96d8be21ab6173ac95bae3bcb2beb4c9a4cae7d82674f5551303986e121bf
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.3"
+    version: "2.0.5"
   cached_network_image:
     dependency: "direct main"
     description:
