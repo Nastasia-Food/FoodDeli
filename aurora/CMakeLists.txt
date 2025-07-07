@@ -4,7 +4,7 @@
 # PSDK_MAJOR             - Build psdk major version
 
 cmake_minimum_required(VERSION 3.10)
-project(pro.natalee.foodking_delivery_boy LANGUAGES CXX)
+project(com.nata.food LANGUAGES CXX)
 
 include(GNUInstallDirs)
 

@@ -1,8 +1,8 @@
 %global __provides_exclude_from ^%{_datadir}/%{name}/lib/.*$
 %global __requires_exclude ^lib(dconf|flutter-embedder|maliit-glib|.+_platform_plugin)\\.so.*$
 
-Name: pro.natalee.foodking_delivery_boy
-Summary: At its core, the NataLee Pro Food Ecosystem is driven by a mission to redefine global food systems. It aims to bridge the gap between cutting-edge food technologies and traditional culinary practices, fostering a harmonious relationship between humans and the planet.
+Name: com.nata.food
+Summary: At its core, the NataLee Pro Food Ecosystem is driven by a mission to redefine global food systems.
 Version: 3.0.0
 Release: 13
 License: Proprietary
