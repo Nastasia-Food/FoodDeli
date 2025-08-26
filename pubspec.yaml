@@ -31,7 +31,7 @@ dependencies:
   geolocator: ^14.0.2
   flutter_polyline_points: ^3.0.1
   url_launcher: ^6.3.2
-  map_launcher: ^4.0.0
+  map_launcher: ^4.4.0
   webview_flutter: ^4.13.0
   flutter_html: 3.0.0
 
