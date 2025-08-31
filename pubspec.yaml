@@ -1,9 +1,9 @@
 name: foodking_delivery_boy
-version: 3.0.0+11
+version: 3.0.1+12
 publish_to: none
 description: At its core, the NataLee Pro Food Ecosystem is driven by a mission to redefine global food systems. It aims to bridge the gap between cutting-edge food technologies and traditional culinary practices, fostering a harmonious relationship between humans and the planet.
 environment: 
-  sdk: '>=3.3.4 <4.0.0'
+  sdk: '>=3.4.0 <4.0.0'
 
 dependencies: 
   cupertino_icons: ^1.0.2
@@ -21,7 +21,7 @@ dependencies:
   rflutter_alert: ^2.0.4
   cached_network_image: ^3.3.1
   shimmer: ^3.0.0
-  connectivity:
+  connectivity_plus: ^6.0.5
   firebase_messaging: ^15.2.9
   firebase_core: ^3.15.2
   flutter_local_notifications: ^19.4.1

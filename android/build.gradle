@@ -1,19 +1,24 @@
 allprojects {
     repositories {
         google()
-        //mavenCentral()
+        mavenCentral()
         maven {url 'https://developer.huawei.com/repo/'}
     }
 }
 
 buildscript{
+    ext.kotlin_version = '2.1.0'
+    ext.agp_version = '8.6.0'
+    
     repositories {
-        // Add the Maven address.
+        google()
+        mavenCentral()
         maven { url 'https://developer.huawei.com/repo/' }
     }
     dependencies {
-        // Add dependencies.
-        classpath 'com.huawei.agconnect:agcp:1.5.2.300'
+        classpath "com.android.tools.build:gradle:$agp_version"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath 'com.huawei.agconnect:agcp:1.9.1.300'
     }
 }
 
