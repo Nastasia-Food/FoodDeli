@@ -23,7 +23,7 @@ dependencies:
   shimmer: ^3.0.0
   connectivity_plus: ^7.0.0
   firebase_messaging: ^16.0.2
-  firebase_core: ^4.2.0
+  firebase_core: ^4.2.1
   flutter_local_notifications: ^19.5.0
   flutter_launcher_icons: ^0.14.4
   google_maps_flutter: ^2.13.1
