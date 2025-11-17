@@ -11,7 +11,7 @@ dependencies:
   http: ^1.6.0
   animated_bottom_navigation_bar: ^1.1.0
   flutter_screenutil: ^5.9.0
-  image_picker: ^1.2.0
+  image_picker: ^1.2.1
   get_storage: ^2.0.3
   flutter_svg: ^2.2.2
   lottie: ^3.3.2
