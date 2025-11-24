@@ -13,7 +13,7 @@ dependencies:
   flutter_screenutil: ^5.9.0
   image_picker: ^1.2.1
   get_storage: ^2.0.3
-  flutter_svg: ^2.2.2
+  flutter_svg: ^2.2.3
   lottie: ^3.3.2
   modal_bottom_sheet: ^3.0.0
   expansion_tile_card: ^3.0.0
