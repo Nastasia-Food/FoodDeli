@@ -7,7 +7,7 @@ environment:
 
 dependencies: 
   cupertino_icons: ^1.0.2
-  get: ^4.6.5
+  get: ^4.7.3
   http: ^1.6.0
   animated_bottom_navigation_bar: ^1.1.0
   flutter_screenutil: ^5.9.0
