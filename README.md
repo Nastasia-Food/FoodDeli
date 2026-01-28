@@ -62,10 +62,19 @@ Push: git push origin feature/your-feature.
 
 Submit a Pull Request.
 
-License 📄
-Licensed under the MIT License. See LICENSE.
+## Policies and Legal 📄
 
-Contact 📧
+- [Privacy Policy](PRIVACY_POLICY.md)
+- [Terms of Service](TERMS_OF_SERVICE.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
+- [Security Policy](SECURITY.md)
+- [Google Play Privacy Policy](GOOGLE_PLAY_PRIVACY_POLICY.md)
+
+## License 📄
+Licensed under the BSD 3-Clause License. See [LICENSE](LICENSE).
+
+## Contact 📧
 Reach out for support, partnerships, or feedback:
 
 Website: https://food.natalee.pro
