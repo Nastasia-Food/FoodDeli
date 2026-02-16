@@ -26,7 +26,7 @@ dependencies:
   firebase_core: ^4.2.1
   flutter_local_notifications: ^20.1.0
   flutter_launcher_icons: ^0.14.4
-  google_maps_flutter: ^2.14.0
+  google_maps_flutter: ^2.14.2
   location: ^7.0.1
   geolocator: ^14.0.2
   flutter_polyline_points: ^3.1.0
