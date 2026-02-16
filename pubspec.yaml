@@ -24,7 +24,7 @@ dependencies:
   connectivity_plus: ^7.0.0
   firebase_messaging: ^16.1.1
   firebase_core: ^4.2.1
-  flutter_local_notifications: ^20.0.0
+  flutter_local_notifications: ^20.1.0
   flutter_launcher_icons: ^0.14.4
   google_maps_flutter: ^2.14.0
   location: ^7.0.1
