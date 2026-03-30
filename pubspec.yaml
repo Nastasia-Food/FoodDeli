@@ -6,7 +6,7 @@ environment:
   sdk: '>=3.4.0 <4.0.0'
 
 dependencies: 
-  cupertino_icons: ^1.0.2
+  cupertino_icons: ^1.0.9
   get: ^4.7.3
   http: ^1.6.0
   animated_bottom_navigation_bar: ^1.1.0
